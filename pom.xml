@@ -28,7 +28,7 @@
 
         <!-- Configurable variables -->
         <threads>2</threads>
-        <browser>chrome</browser>
+        <browser>firefox</browser>
 
         <!--Flag to switch on or off the browser binary download-->
         <overwrite.binaries>false</overwrite.binaries>
